@@ -14,7 +14,7 @@ I used the python version to generate a **"Score.pb"** model which include all p
 
 # Result
 
-C++ implementation is not as fast as I predict. About 2.3 fps on Macbook Pro 2017.
+C++ implementation is not as fast as I predict. SiameseFC is unable to track online. About 2.3 fps on Macbook Pro 2017. 
 
 # Reference
 https://github.com/torrvision/siamfc-tf
@@ -24,3 +24,8 @@ https://www.octadero.com/2017/08/27/tensorflow-c-environment
 http://blog.blitzblit.com/2017/06/11/creating-tensorflow-c-headers-and-libraries
 
 https://spockwangs.github.io/blog/2018/01/13/train-using-tensorflow-c-plus-plus-api/
+
+
+# License
+This code can be freely used for personal, academic, or educational purposes.
+Please contact me for commercial use.
